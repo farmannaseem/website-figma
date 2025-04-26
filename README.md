@@ -12,7 +12,7 @@ This project is a responsive landing page designed to showcase a product or serv
 2. Open `templates/LandingPage.html` in your browser to view the landing page.
 
 ## Folder Structure
-- `static/images/`: Contains all images and SVG icons.
+- `static/images/`: Contains all images.
 - `templates/`: Contains the HTML file for the landing page.
 - `index.css`: Contains the styles for the landing page.
 
